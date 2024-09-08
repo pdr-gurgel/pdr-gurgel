@@ -8,6 +8,10 @@
 </p><br><br>
 
 <!--CARDS DE GITHUB-->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdr-gurgel&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-gurgel&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
 [![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pdr-gurgel&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
