@@ -37,7 +37,6 @@
 ## Sobre Mim
 - 🤔 Explorando o mundo da tecnologia e desenvolvendo soluções
 - 🎓 Estudando para se tornar o melhor desenvolvedor
-- 💼 Na busca pelo seu primeiro emprego
 - 🌱 Cultivando a tecnologia para o progresso do mundo
 
 ## Linguagens que Trabalho
